@@ -1,0 +1,2 @@
+fclean:
+    @echo "Nettoyage terminé !"
